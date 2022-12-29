@@ -8,7 +8,7 @@
     <artifactId>Jenkins-integration-sample</artifactId>
     <version>1.0-SNAPSHOT</version>
 <build>
-    <finalname>Jenkins-integration-sample</finalname>
+    <finalName>Jenkins-integration-sample</finalName>
 </build>
 
 </project>
